@@ -8,7 +8,6 @@
 
 > **"개발자들이 함께 성장할 스터디를 찾고, 실시간 인기 스터디를 발견하는 플랫폼"**
 
-📋 **Portfolio**: [PORTFOLIO_COMPACT.md](./PORTFOLIO_COMPACT.md) 
 📚 **Technical Details**: [PROBLEM_SOLVING.md](./PROBLEM_SOLVING.md) | [ARCHITECTURE.md](./ARCHITECTURE.md)
 
 ---
