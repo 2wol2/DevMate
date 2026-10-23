@@ -283,17 +283,4 @@ PONG
 
 ---
 
-## 📝 라이선스
 
-MIT License
-
----
-
-## 📧 Contact
-
-GitHub: [@yourusername](https://github.com/yourusername)
-
----
-
-> 💡 **면접 준비 TIP**: 이 프로젝트의 모든 기술 선택에는 "왜?"라는 질문에 답할 수 있는 근거가 있습니다.
-> 예: "Redis를 쓴 이유? → 실시간 랭킹 O(log N), 좋아요 캐싱, Refresh Token 만료 관리"
